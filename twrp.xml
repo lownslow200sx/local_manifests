@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="lownslow200sx/device_lge_vs985_twrp_2" path="device/lge/vs985" remote="github" revision="twrp"/>
+  <project name="lownslow200sx/device_lge_vs985_twrp" path="device/lge/vs985" remote="github" revision="ose"/>
 
 </manifest>
